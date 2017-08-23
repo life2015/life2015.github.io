@@ -9,7 +9,7 @@ url: "http://retrox.me"              # your host, for absolute URL
 baseurl: "/blog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
-gems:
+plugins:
   - jekyll-paginate
   
 # SNS settings
