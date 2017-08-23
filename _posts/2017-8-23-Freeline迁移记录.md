@@ -1,14 +1,14 @@
 ---
 layout:     post
 title:      "Freeline迁移记录"
-subtitle:   "ES5, ES6, ES2016, ES.Next: What's going on with JavaScript versioning?"
-date:       2015-09-22
-author:     "Hux"
-header-img: "img/post-bg-js-version.jpg"
+subtitle:   "修复Gradle Plugin崩溃"
+date:       2017-08-23
+author:     "Retrox"
+header-img: "img/home-bg.jpg"
 tags:
-- 前端开发
-- JavaScript
-- 翻译
+- Android
+- Freeline
+- Gradle
 ---
 
 # Freeline 迁移记录-1 修复Gradle Plugin崩溃
