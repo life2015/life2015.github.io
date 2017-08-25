@@ -91,10 +91,10 @@ friends: [
         title: "TWT",
         href: "https://github.com/twtstudio"
     }
-    # ,{
-    #     title: "Bar",
-    #     href: "#"
-    # },{
+    ,{
+        title: "Me",
+        href: "https://github.com/life2015"
+    }
     #     title: "Example Friends",
     #     href: "#"
     # },{
